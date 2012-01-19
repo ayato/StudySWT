@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="var" path="ECLIPSE_BOOT"/>
+	<classpathentry kind="var" path="ECLIPSE_COMMANDS"/>
+	<classpathentry kind="var" path="ECLIPSE_EQINOX_COMMON"/>
+	<classpathentry kind="var" path="ECLIPSE_JFACE"/>
+	<classpathentry kind="var" path="ECLIPSE_JFACE_TEXT"/>
+	<classpathentry kind="var" path="ECLIPSE_OSGI"/>
+	<classpathentry kind="var" path="ECLIPSE_RUNTIME"/>
+	<classpathentry kind="var" path="ECLIPSE_TEXT"/>
+	<classpathentry kind="var" path="ECLIPSE_UI_WORKBENCH"/>
+	<classpathentry kind="var" path="SWT"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
